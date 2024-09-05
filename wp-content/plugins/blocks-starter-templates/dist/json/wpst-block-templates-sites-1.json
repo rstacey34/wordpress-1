@@ -1,0 +1,1758 @@
+{
+    "id-11": {
+        "title": "Construction",
+        "id": 11,
+        "featured-image-url": "dist/img/construction-home.webp",
+        "thumbnail-image-url": "dist/img/construction-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/construction-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-11": {
+                "title": "Home",
+                "featured-image-url": "dist/img/construction-home.webp",
+                "thumbnail-image-url": "dist/img/construction-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/construction-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-13": {
+                "title": "About",
+                "featured-image-url": "dist/img/construction-about.webp",
+                "thumbnail-image-url": "dist/img/construction-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/construction-01/construction-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-131": {
+                "title": "Services",
+                "featured-image-url": "dist/img/construction-services.webp",
+                "thumbnail-image-url": "dist/img/construction-services.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/construction-01/construction-services/",
+                "wpst-tag": { "352": "services" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-132": {
+                "title": "Portfolio",
+                "featured-image-url": "dist/img/construction-portfolio.webp",
+                "thumbnail-image-url": "dist/img/construction-portfolio.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/construction-01/construction-portfolio/",
+                "wpst-tag": { "352": "portfolio" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-134": {
+        "title": "Transportation",
+        "id": 134,
+        "featured-image-url": "dist/img/transportation-home.webp",
+        "thumbnail-image-url": "dist/img/transportation-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/transportation-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-134": {
+                "title": "Home",
+                "featured-image-url": "dist/img/transportation-home.webp",
+                "thumbnail-image-url": "dist/img/transportation-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/transportation-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-138": {
+                "title": "About",
+                "featured-image-url": "dist/img/transportation-about.webp",
+                "thumbnail-image-url": "dist/img/transportation-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/transportation-01/transportation-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-140": {
+                "title": "Portfolio",
+                "featured-image-url": "dist/img/transportation-portfolio.webp",
+                "thumbnail-image-url": "dist/img/transportation-portfolio.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/transportation-01/transportation-portfolio/",
+                "wpst-tag": { "352": "portfolio" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-142": {
+        "title": "Fitness",
+        "id": 142,
+        "featured-image-url": "dist/img/fitness-home.webp",
+        "thumbnail-image-url": "dist/img/fitness-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/fitness-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-142": {
+                "title": "Home",
+                "featured-image-url": "dist/img/fitness-home.webp",
+                "thumbnail-image-url": "dist/img/fitness-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fitness-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-145": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/fitness-contact.webp",
+                "thumbnail-image-url": "dist/img/fitness-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fitness-01/fitness-contact/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-143": {
+                "title": "F.A.Q",
+                "featured-image-url": "dist/img/fitness-faq.webp",
+                "thumbnail-image-url": "dist/img/fitness-faq.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fitness-01/fitness-faq/",
+                "wpst-tag": { "352": "faq" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-147": {
+        "title": "Restaurant",
+        "id": 147,
+        "featured-image-url": "dist/img/restaurant-home.webp",
+        "thumbnail-image-url": "dist/img/restaurant-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/restaurant-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-147": {
+                "title": "Home",
+                "featured-image-url": "dist/img/restaurant-home.webp",
+                "thumbnail-image-url": "dist/img/restaurant-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/restaurant-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-149": {
+                "title": "Menu",
+                "featured-image-url": "dist/img/restaurant-menu.webp",
+                "thumbnail-image-url": "dist/img/restaurant-menu.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/restaurant-01/restaurant-menu/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-150": {
+        "title": "Fashion",
+        "id": 150,
+        "featured-image-url": "dist/img/fashion-home.webp",
+        "thumbnail-image-url": "dist/img/fashion-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/fashion-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-150": {
+                "title": "Home",
+                "featured-image-url": "dist/img/fashion-home.webp",
+                "thumbnail-image-url": "dist/img/fashion-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fashion-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-152": {
+                "title": "About",
+                "featured-image-url": "dist/img/fashion-about.webp",
+                "thumbnail-image-url": "dist/img/fashion-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fashion-01/fashion-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-151": {
+                "title": "Portfolio",
+                "featured-image-url": "dist/img/fashion-portfolio.webp",
+                "thumbnail-image-url": "dist/img/fashion-portfolio.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/fashion-01/fashion-portfolio/",
+                "wpst-tag": { "352": "portfolio" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-153": {
+        "title": "Webinar",
+        "id": 153,
+        "featured-image-url": "dist/img/webinar-home.webp",
+        "thumbnail-image-url": "dist/img/webinar-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/webinar-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-153": {
+                "title": "Home",
+                "featured-image-url": "dist/img/webinar-home.webp",
+                "thumbnail-image-url": "dist/img/webinar-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/webinar-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-156": {
+        "title": "Digital Agency",
+        "id": 156,
+        "featured-image-url": "dist/img/digital-agency-home.webp",
+        "thumbnail-image-url": "dist/img/digital-agency-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/digital-agency-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-156": {
+                "title": "Home",
+                "featured-image-url": "dist/img/digital-agency-home.webp",
+                "thumbnail-image-url": "dist/img/digital-agency-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/digital-agency-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-158": {
+                "title": "About",
+                "featured-image-url": "dist/img/digital-agency-about.webp",
+                "thumbnail-image-url": "dist/img/digital-agency-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/digital-agency-01/digital-agency-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-157": {
+                "title": "Services",
+                "featured-image-url": "dist/img/digital-agency-services.webp",
+                "thumbnail-image-url": "dist/img/digital-agency-services.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/digital-agency-01/digital-agency-services/",
+                "wpst-tag": { "352": "services" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-159": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/digital-agency-contact.webp",
+                "thumbnail-image-url": "dist/img/digital-agency-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/digital-agency-01/digital-agency-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-160": {
+        "title": "Landing Page",
+        "id": 160,
+        "featured-image-url": "dist/img/landing-page-home.webp",
+        "thumbnail-image-url": "dist/img/landing-page-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/landing-page-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-160": {
+                "title": "Home",
+                "featured-image-url": "dist/img/landing-page-home.webp",
+                "thumbnail-image-url": "dist/img/landing-page-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/landing-page-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-163": {
+        "title": "App Landing Page",
+        "id": 163,
+        "featured-image-url": "dist/img/app-landing-page-home.webp",
+        "thumbnail-image-url": "dist/img/app-landing-page-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/app-landing-page-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-163": {
+                "title": "Home",
+                "featured-image-url": "dist/img/app-landing-page-home.webp",
+                "thumbnail-image-url": "dist/img/app-landing-page-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/app-landing-page-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-168": {
+        "title": "Personal Fitness Trainer",
+        "id": 168,
+        "featured-image-url": "dist/img/personal-fitness-trainer-home.webp",
+        "thumbnail-image-url": "dist/img/personal-fitness-trainer-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/personal-fitness-trainer-01/",
+        "wpst-type": "free",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-168": {
+                "title": "Home",
+                "featured-image-url": "dist/img/personal-fitness-trainer-home.webp",
+                "thumbnail-image-url": "dist/img/personal-fitness-trainer-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/personal-fitness-trainer-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-9897248": {
+        "title": "WooCommerce 6",
+        "id": 9897248,
+        "featured-image-url": "dist/img/woocommerce-06-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-06-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-06/",
+        "wpst-type": "free",
+        "wpst-site-category": { "25": "woocommerce", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897248": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-06-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-06-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-06/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897249": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-06-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-06-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-06/woocommerce-06-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897250": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-06-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-06-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-06/woocommerce-06-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897251": {
+        "title": "WooCommerce 7",
+        "id": 9897251,
+        "featured-image-url": "dist/img/woocommerce-07-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-07-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-07/",
+        "wpst-type": "free",
+        "wpst-site-category": { "25": "woocommerce", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897251": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-07-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-07-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-07/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897253": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-07-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-07-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-07/woocommerce-07-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "free",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-218": {
+        "title": "Photography",
+        "id": 218,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/photography-home.webp",
+        "thumbnail-image-url": "dist/img/photography-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/photography-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-218": {
+                "title": "Home",
+                "featured-image-url": "dist/img/photography-home.webp",
+                "thumbnail-image-url": "dist/img/photography-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/photography-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-602": {
+                "title": "Gallery Categories",
+                "featured-image-url": "dist/img/photography-gallery-categories.webp",
+                "thumbnail-image-url": "dist/img/photography-gallery-categories.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/photography-01/photography-gallery-categories/",
+                "wpst-sites-tag": { "352": "gallery-categories" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-219": {
+                "title": "About",
+                "featured-image-url": "dist/img/photography-about.webp",
+                "thumbnail-image-url": "dist/img/photography-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/photography-01/photography-about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-220": {
+                "title": "Portfolio",
+                "featured-image-url": "dist/img/photography-portfolio.webp",
+                "thumbnail-image-url": "dist/img/photography-portfolio.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/photography-01/photography-portfolio/",
+                "wpst-sites-tag": { "352": "portfolio" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-603": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/photography-contact.webp",
+                "thumbnail-image-url": "dist/img/photography-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/photography-01/photography-contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-221": {
+        "title": "Personal",
+        "id": 221,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/personal-home.webp",
+        "thumbnail-image-url": "dist/img/personal-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/personal-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-221": {
+                "title": "Home",
+                "featured-image-url": "dist/img/personal-home.webp",
+                "thumbnail-image-url": "dist/img/personal-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/personal-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "site-pages-parent-category": { "60": "business", "61": "free" },
+                "required-plugins": []
+            }
+        }
+    },
+    "id-222": {
+        "title": "Gym & Fitness",
+        "id": 222,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/gym-fitness-home.webp",
+        "thumbnail-image-url": "dist/img/gym-fitness-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/gym-fitness-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-222": {
+                "title": "Home",
+                "featured-image-url": "dist/img/gym-fitness-home.webp",
+                "thumbnail-image-url": "dist/img/gym-fitness-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/gym-fitness-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-223": {
+                "title": "About",
+                "featured-image-url": "dist/img/gym-fitness-about.webp",
+                "thumbnail-image-url": "dist/img/gym-fitness-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/gym-fitness-01/gym-fitness-about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-224": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/gym-fitness-contact.webp",
+                "thumbnail-image-url": "dist/img/gym-fitness-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/gym-fitness-01/gym-fitness-contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-693": {
+                "title": "F.A.Q.",
+                "featured-image-url": "dist/img/gym-fitness-f-a-q.webp",
+                "thumbnail-image-url": "dist/img/gym-fitness-f-a-q.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/gym-fitness-01/gym-fitness-f-a-q/",
+                "wpst-sites-tag": { "352": "f-a-q" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-695": {
+                "title": "Opening Hours",
+                "featured-image-url": "dist/img/gym-fitness-opening-hours.webp",
+                "thumbnail-image-url": "dist/img/gym-fitness-opening-hours.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/gym-fitness-01/gym-fitness-opening-hours/",
+                "wpst-sites-tag": { "352": "opening-hours" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-719": {
+        "title": "Business #1",
+        "id": 719,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/business-01-home.webp",
+        "thumbnail-image-url": "dist/img/business-01-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/business-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-719": {
+                "title": "Home",
+                "featured-image-url": "dist/img/business-01-home.webp",
+                "thumbnail-image-url": "dist/img/business-01-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-724": {
+                "title": "About",
+                "featured-image-url": "dist/img/business-01-about.webp",
+                "thumbnail-image-url": "dist/img/business-01-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-01/about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-728": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/business-01-contact.webp",
+                "thumbnail-image-url": "dist/img/business-01-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-01/contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-725": {
+                "title": "services",
+                "featured-image-url": "dist/img/business-01-services.webp",
+                "thumbnail-image-url": "dist/img/business-01-services.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-01/services/",
+                "wpst-sites-tag": { "352": "services" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-737": {
+        "title": "Business #2",
+        "id": 737,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/business-02-home.webp",
+        "thumbnail-image-url": "dist/img/business-02-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/business-02/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-737": {
+                "title": "Home",
+                "featured-image-url": "dist/img/business-02-home.webp",
+                "thumbnail-image-url": "dist/img/business-02-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-02/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-739": {
+                "title": "About",
+                "featured-image-url": "dist/img/business-02-about.webp",
+                "thumbnail-image-url": "dist/img/business-02-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-02/about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-741": {
+                "title": "Pricing",
+                "featured-image-url": "dist/img/business-02-pricing.webp",
+                "thumbnail-image-url": "dist/img/business-02-pricing.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-02/pricing/",
+                "wpst-sites-tag": { "352": "pricing" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-742": {
+                "title": "services",
+                "featured-image-url": "dist/img/business-02-services.webp",
+                "thumbnail-image-url": "dist/img/business-02-services.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-02/services/",
+                "wpst-sites-tag": { "352": "services" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-754": {
+        "title": "Business #3",
+        "id": 754,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/business-03-home.webp",
+        "thumbnail-image-url": "dist/img/business-03-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/business-03/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-754": {
+                "title": "Home",
+                "featured-image-url": "dist/img/business-03-home.webp",
+                "thumbnail-image-url": "dist/img/business-03-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-03/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-773": {
+                "title": "About",
+                "featured-image-url": "dist/img/business-03-about.webp",
+                "thumbnail-image-url": "dist/img/business-03-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-03/about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-774": {
+                "title": "Team",
+                "featured-image-url": "dist/img/business-03-team.webp",
+                "thumbnail-image-url": "dist/img/business-03-team.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-03/team/",
+                "wpst-sites-tag": { "352": "team" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-782": {
+        "title": "Business #4",
+        "id": 782,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/business-04-home.webp",
+        "thumbnail-image-url": "dist/img/business-04-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/business-04/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-782": {
+                "title": "Home",
+                "featured-image-url": "dist/img/business-04-home.webp",
+                "thumbnail-image-url": "dist/img/business-04-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-04/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-784": {
+                "title": "Pricing",
+                "featured-image-url": "dist/img/business-04-pricing.webp",
+                "thumbnail-image-url": "dist/img/business-04-pricing.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-04/pricing/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-785": {
+                "title": "Services",
+                "featured-image-url": "dist/img/business-04-services.webp",
+                "thumbnail-image-url": "dist/img/business-04-services.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-04/services/",
+                "wpst-sites-tag": { "352": "team" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-788": {
+        "title": "Business #5",
+        "id": 788,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/business-05-home.webp",
+        "thumbnail-image-url": "dist/img/business-05-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/business-05/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-788": {
+                "title": "Home",
+                "featured-image-url": "dist/img/business-05-home.webp",
+                "thumbnail-image-url": "dist/img/business-05-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-05/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-793": {
+                "title": "About",
+                "featured-image-url": "dist/img/business-05-about.webp",
+                "thumbnail-image-url": "dist/img/business-05-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-05/about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-794": {
+                "title": "F.A.Q.",
+                "featured-image-url": "dist/img/business-05-faq.webp",
+                "thumbnail-image-url": "dist/img/business-05-faq.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-05/faq/",
+                "wpst-sites-tag": { "352": "team" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-792": {
+                "title": "Pricing",
+                "featured-image-url": "dist/img/business-05-pricing.webp",
+                "thumbnail-image-url": "dist/img/business-05-pricing.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/business-05/pricing/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-225": {
+        "title": "Product Landing Page",
+        "id": 225,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/product-landing-page-home.webp",
+        "thumbnail-image-url": "dist/img/product-landing-page-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/product-landing-page-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "39": "free" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-225": {
+                "title": "Home",
+                "featured-image-url": "dist/img/product-landing-page-home.webp",
+                "thumbnail-image-url": "dist/img/product-landing-page-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/product-landing-page-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "site-pages-parent-category": { "60": "business", "61": "free" },
+                "required-plugins": []
+            }
+        }
+    },
+    "id-226": {
+        "title": "Wedding",
+        "id": 226,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/wedding-home.webp",
+        "thumbnail-image-url": "dist/img/wedding-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/wedding-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-226": {
+                "title": "Home",
+                "featured-image-url": "dist/img/wedding-home.webp",
+                "thumbnail-image-url": "dist/img/wedding-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/wedding-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-227": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/wedding-contact.webp",
+                "thumbnail-image-url": "dist/img/wedding-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/wedding-01/wedding-contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-228": {
+        "title": "Car Rental",
+        "id": 228,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/car-rental-home.webp",
+        "thumbnail-image-url": "dist/img/car-rental-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/car-rental-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-228": {
+                "title": "Home",
+                "featured-image-url": "dist/img/car-rental-home.webp",
+                "thumbnail-image-url": "dist/img/car-rental-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/car-rental-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-229": {
+                "title": "Portfolio",
+                "featured-image-url": "dist/img/car-rental-portfolio.webp",
+                "thumbnail-image-url": "dist/img/car-rental-portfolio.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/car-rental-01/car-rental-portfolio/",
+                "wpst-sites-tag": { "352": "portfolio" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-230": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/car-rental-contact.webp",
+                "thumbnail-image-url": "dist/img/car-rental-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/car-rental-01/car-rental-contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-231": {
+        "title": "Dance School",
+        "id": 231,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/dance-school-home.webp",
+        "thumbnail-image-url": "dist/img/dance-school-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/dance-school-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-231": {
+                "title": "Home",
+                "featured-image-url": "dist/img/dance-school-home.webp",
+                "thumbnail-image-url": "dist/img/dance-school-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/dance-school-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-232": {
+                "title": "Pricing",
+                "featured-image-url": "dist/img/dance-school-pricing.webp",
+                "thumbnail-image-url": "dist/img/dance-school-pricing.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/dance-school-01/dance-school-about/",
+                "wpst-sites-tag": { "352": "pricing" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-233": {
+        "title": "Restaurant 2",
+        "id": 233,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/restaurant-02-home.webp",
+        "thumbnail-image-url": "dist/img/restaurant-02-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/restaurant-02/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-233": {
+                "title": "Home",
+                "featured-image-url": "dist/img/restaurant-02-home.webp",
+                "thumbnail-image-url": "dist/img/restaurant-02-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/restaurant-02/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-234": {
+                "title": "Menu",
+                "featured-image-url": "dist/img/restaurant-02-menu.webp",
+                "thumbnail-image-url": "dist/img/restaurant-02-menu.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/restaurant-02/restaurant-02-menu/",
+                "wpst-sites-tag": { "352": "menu" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-235": {
+        "title": "Coffee",
+        "id": 235,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/coffee-home.webp",
+        "thumbnail-image-url": "dist/img/coffee-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/coffee-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-235": {
+                "title": "Home",
+                "featured-image-url": "dist/img/coffee-home.webp",
+                "thumbnail-image-url": "dist/img/coffee-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/coffee-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-236": {
+        "title": "Restaurant 3",
+        "id": 236,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/restaurant-03-home.webp",
+        "thumbnail-image-url": "dist/img/restaurant-03-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/restaurant-03/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-236": {
+                "title": "Home",
+                "featured-image-url": "dist/img/restaurant-03-home.webp",
+                "thumbnail-image-url": "dist/img/restaurant-03-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/restaurant-03/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-237": {
+        "title": "Product Landing Page 2",
+        "id": 237,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/product-landing-page-02-home.webp",
+        "thumbnail-image-url": "dist/img/product-landing-page-02-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/product-landing-page-02/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-237": {
+                "title": "Home",
+                "featured-image-url": "dist/img/product-landing-page-02-home.webp",
+                "thumbnail-image-url": "dist/img/product-landing-page-02-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/product-landing-page-02/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-239": {
+        "title": "BarberShop",
+        "id": 239,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/barbershop-home.webp",
+        "thumbnail-image-url": "dist/img/barbershop-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/barbershop-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-239": {
+                "title": "Home",
+                "featured-image-url": "dist/img/barbershop-home.webp",
+                "thumbnail-image-url": "dist/img/barbershop-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/barbershop-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-243": {
+        "title": "Hair & Beauty Salon",
+        "id": 243,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/hair-beauty-salon-home.webp",
+        "thumbnail-image-url": "dist/img/hair-beauty-salon-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/hair-beauty-salon-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-243": {
+                "title": "Home",
+                "featured-image-url": "dist/img/hair-beauty-salon-home.webp",
+                "thumbnail-image-url": "dist/img/hair-beauty-salon-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/hair-beauty-salon-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-243": {
+        "title": "Pets Care",
+        "id": 243,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/pets-care-home.webp",
+        "thumbnail-image-url": "dist/img/pets-care-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/pets-care-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-243": {
+                "title": "Home",
+                "featured-image-url": "dist/img/pets-care-home.webp",
+                "thumbnail-image-url": "dist/img/pets-care-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/pets-care-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-248": {
+                "title": "About",
+                "featured-image-url": "dist/img/pets-care-about.webp",
+                "thumbnail-image-url": "dist/img/pets-care-about.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/pets-care-01/pets-care-about/",
+                "wpst-sites-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            },
+            "id-247": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/pets-care-contact.webp",
+                "thumbnail-image-url": "dist/img/pets-care-contact.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/pets-care-01/pets-care-contact/",
+                "wpst-sites-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-249": {
+        "title": "Product Landing Page 3",
+        "id": 249,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/product-landing-page-03-home.webp",
+        "thumbnail-image-url": "dist/img/product-landing-page-03-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/product-landing-page-03/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-249": {
+                "title": "Home",
+                "featured-image-url": "dist/img/product-landing-page-03-home.webp",
+                "thumbnail-image-url": "dist/img/product-landing-page-03-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/product-landing-page-03/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-252": {
+        "title": "Product Landing Page 4",
+        "id": 252,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/product-landing-page-04-home.webp",
+        "thumbnail-image-url": "dist/img/product-landing-page-04-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/product-landing-page-04/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-252": {
+                "title": "Home",
+                "featured-image-url": "dist/img/product-landing-page-04-home.webp",
+                "thumbnail-image-url": "dist/img/product-landing-page-04-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/product-landing-page-03/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-258": {
+        "title": "Brand Landing Page",
+        "id": 258,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/brand-landing-page-home.webp",
+        "thumbnail-image-url": "dist/img/brand-landing-page-home.webp",
+        "wpst-site-url": "//wp-fse.com/site-pages/brand-landing-page-01/",
+        "wpst-sites-type": "pro",
+        "wpst-site-category": { "27": "business", "38": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-258": {
+                "title": "Home",
+                "featured-image-url": "dist/img/brand-landing-page-home.webp",
+                "thumbnail-image-url": "dist/img/brand-landing-page-home.webp",
+                "dynamic-page": "no",
+                "wpst-page-url": "//wp-fse.com/site-pages/brand-landing-page-01/",
+                "wpst-sites-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": []
+            }
+        }
+    },
+    "id-9897130": {
+        "title": "WooCommerce 1",
+        "id": 9897130,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-01-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-01-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-01/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897130": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-01-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-01-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-01/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897173": {
+                "title": "Sale",
+                "featured-image-url": "dist/img/woocommerce-01-sale.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-01-sale.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-01/woocommerce-01-sale/",
+                "wpst-tag": { "352": "sale" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897174": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-01-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-01-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-01/woocommerce-01-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897183": {
+        "title": "WooCommerce 2",
+        "id": 9897183,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-02-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-02-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897183": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-02-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-02-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897284": {
+                "title": "Black Friday",
+                "featured-image-url": "dist/img/woocommerce-02-black-friday.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-02-black-friday.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/woocommerce-02-black-friday/",
+                "wpst-tag": { "352": "black-friday" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897193": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-02-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-02-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/woocommerce-02-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897195": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-02-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-02-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/woocommerce-02-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897283": {
+                "title": "F.A.Q.",
+                "featured-image-url": "dist/img/woocommerce-02-f-a-q.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-02-f-a-q.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-02/woocommerce-02-f-a-q/",
+                "wpst-tag": { "352": "f-a-q" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897197": {
+        "title": "WooCommerce 3",
+        "id": 9897197,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-03-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-03-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897197": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-03-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-03-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897285": {
+                "title": "Black Friday",
+                "featured-image-url": "dist/img/woocommerce-03-black-friday.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-03-black-friday.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/woocommerce-03-black-friday/",
+                "wpst-tag": { "352": "black-friday" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897208": {
+                "title": "Sale",
+                "featured-image-url": "dist/img/woocommerce-03-sale.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-03-sale.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/woocommerce-03-sale/",
+                "wpst-tag": { "352": "sale" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897209": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-03-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-03-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/woocommerce-03-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897286": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-03-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-03-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-03/woocommerce-03-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897212": {
+        "title": "WooCommerce 4",
+        "id": 9897212,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-04-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-04-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897212": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-04-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-04-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897227": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-04-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-04-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/woocommerce-04-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897291": {
+                "title": "Sale",
+                "featured-image-url": "dist/img/woocommerce-04-sale.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-04-sale.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/woocommerce-04-sale/",
+                "wpst-tag": { "352": "sale" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897228": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-04-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-04-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/woocommerce-04-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897231": {
+                "title": "F.A.Q.",
+                "featured-image-url": "dist/img/woocommerce-04-f-a-q.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-04-f-a-q.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-04/woocommerce-04-f-a-q/",
+                "wpst-tag": { "352": "f-a-q" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897232": {
+        "title": "WooCommerce 5",
+        "id": 9897232,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-05-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-05-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-05/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897232": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-05-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-05-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-05/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897241": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-05-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-05-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-05/woocommerce-05-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897242": {
+                "title": "Sale",
+                "featured-image-url": "dist/img/woocommerce-05-sale.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-05-sale.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-05/woocommerce-05-sale/",
+                "wpst-tag": { "352": "sale" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    },
+    "id-9897298": {
+        "title": "WooCommerce 8",
+        "id": 9897298,
+        "publish-date": 1676368033,
+        "featured-image-url": "dist/img/woocommerce-08-home.webp",
+        "thumbnail-image-url": "dist/img/woocommerce-08-home.webp",
+        "wpst-site-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/",
+        "wpst-type": "pro",
+        "wpst-site-category": { "25": "woocommerce", "39": "pro" },
+        "wpst-site-page-builder": "gutenberg",
+        "required-plugins": [],
+        "pages": {
+            "id-9897298": {
+                "title": "Home",
+                "featured-image-url": "dist/img/woocommerce-08-home.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-08-home.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/",
+                "wpst-tag": { "352": "home" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897311": {
+                "title": "About",
+                "featured-image-url": "dist/img/woocommerce-08-about.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-08-about.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/woocommerce-08-about/",
+                "wpst-tag": { "352": "about" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897310": {
+                "title": "Sale",
+                "featured-image-url": "dist/img/woocommerce-08-sale.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-08-sale.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/woocommerce-08-sale/",
+                "wpst-tag": { "352": "sale" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897307": {
+                "title": "Contact",
+                "featured-image-url": "dist/img/woocommerce-08-contact.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-08-contact.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/woocommerce-08-contact/",
+                "wpst-tag": { "352": "contact" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            },
+            "id-9897308": {
+                "title": "F.A.Q.",
+                "featured-image-url": "dist/img/woocommerce-08-f-a-q.webp",
+                "thumbnail-image-url": "dist/img/woocommerce-08-f-a-q.webp",
+                "dynamic-page": "yes",
+                "wpst-page-url": "//wp-fse.com/woocommerce/site-pages/woocommerce-08/woocommerce-08-f-a-q/",
+                "wpst-tag": { "352": "f-a-q" },
+                "site-pages-type": "pro",
+                "site-pages-page-builder": "gutenberg",
+                "required-plugins": [
+                    { "slug": "woocommerce", "init": "woocommerce/woocommerce.php", "name": "WooCommerce" }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+@font-face {
+	font-family: wpst-block-templates;
+	src: url("fonts/wpst-block-templates.eot?p3u0q1");
+	src:
+		url("fonts/wpst-block-templates.eot?p3u0q1#iefix") format("embedded-opentype"),
+		url("fonts/wpst-block-templates.ttf?p3u0q1") format("truetype"),
+		url("fonts/wpst-block-templates.woff?p3u0q1") format("woff"),
+		url("fonts/wpst-block-templates.svg?p3u0q1#wpst-block-templates") format("svg");
+	font-weight: 400;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="wpst-block-templates-icon-"],
+[class*=" wpst-block-templates-icon-"] {
+
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: wpst-block-templates !important;
+	speak: never;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.wpst-block-templates-icon-chevron-left::before {
+	content: "\e904";
+}
+
+.wpst-block-templates-icon-pages::before {
+	content: "\e902";
+}
+
+.wpst-block-templates-icon-patterns::before {
+	content: "\e903";
+}
+
+.wpst-block-templates-icon-wireframe::before {
+	content: "\e900";
+}
+
+.wpst-block-templates-icon-refresh::before {
+	content: "\e901";
+}

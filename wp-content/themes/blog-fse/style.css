@@ -1,0 +1,30 @@
+/*
+Theme Name: Blog FSE
+Author: BlocksWP
+Author URI: https://blocks-wp.com/
+Theme URI: https://wp-fse.com/blog-fse/
+Description: Blog FSE is a free block based blogging theme for WordPress. Perfect for personal blogs, dynamic news, magazines, newspapers, gaming or creative sites. Theme works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder or the Block Editor). Theme is super fast, responsive, full-site-editing compatible (FSE), SEO friendly, WPML, translation and RTL ready.
+Requires at least: 6.1
+Tested up to: 6.5
+Requires PHP: 5.7
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blog-fse
+Tags: blog, news, portfolio, one-column, custom-colors, custom-logo, wide-blocks, custom-menu, editor-style, full-site-editing, featured-images, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+.have-rounded-courners {border-radius: 15px;}
+.have-shadow {
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+}
+.colored-categories a {display: inline-block; border-radius: 6px; padding: 5px 10px; margin: 5px; text-decoration: none; background-color: #000;}
+.colored-categories a:nth-of-type(6n) {background-color:var(--wp--preset--color--luminous-vivid-orange);}
+.colored-categories a:nth-of-type(6n+1) {background-color:var(--wp--preset--color--vivid-red);}
+.colored-categories a:nth-of-type(6n+2) {background-color:var(--wp--preset--color--vivid-cyan-blue);}
+.colored-categories a:nth-of-type(6n+3) {background-color:var(--wp--preset--color--vivid-purple);}
+.colored-categories a:nth-of-type(6n+4) {background-color:var(--wp--preset--color--luminous-vivid-amber);}
+.colored-categories a:nth-of-type(6n+5) {background-color:var(--wp--preset--color--cyan-bluish-gray);}
+body .is-layout-flex.small-gap {gap: 1rem;}

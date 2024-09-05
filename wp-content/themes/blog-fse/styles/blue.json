@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Blue",
+    "settings": {
+        "color": {
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(180deg, var(--wp--preset--color--secondary) 0%,var(--wp--preset--color--base) 100%)",
+                    "name": "Secondary to Base",
+                    "slug": "secondary-base"
+                },
+                {
+                    "gradient": "linear-gradient(180deg, var(--wp--preset--color--base) 0 min(24rem, 10%), var(--wp--preset--color--secondary) 0% 30%, var(--wp--preset--color--base) 100%)",
+                    "name": "Base to Secondary to Base",
+                    "slug": "base-secondary-base"
+                }
+            ],
+            "palette": [
+                {
+                    "color": "#FFFFFF",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#070707",
+                    "name": "Contrast",
+                    "slug": "contrast"
+                },
+                {
+                    "color": "#3776FF",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#E4E4E4",
+                    "name": "Secondary",
+                    "slug": "secondary"
+                },
+                {
+                    "color": "#595959",
+                    "name": "Tertiary",
+                    "slug": "tertiary"
+                }
+            ]
+        }
+    }
+}
